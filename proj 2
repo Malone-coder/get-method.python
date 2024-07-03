@@ -1,0 +1,8 @@
+car={
+    "brand":"Audi",
+    "model":"A4",
+    "year":2012,
+    "colour":"black"
+}
+A=car.get("colour")
+print(A)
